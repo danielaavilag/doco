@@ -1,7 +1,7 @@
 # Doco
 
 Doco is an open knowledge system for durable decisions, rules, evidence, and
-their relationships. This repository is the sole upstream for the open product.
+their relationships. This repository is a fork of [Braino](https://github.com/BrainoInc/braino), where you can find the current source and [releases](https://github.com/BrainoInc/braino/releases).
 
 This tree contains the supported single-workspace, self-hosted product:
 
